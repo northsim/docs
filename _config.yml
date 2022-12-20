@@ -2,7 +2,4 @@ title: NorthSIM
 description: Documentation
 theme: just-the-docs
 
-url: https://northsim.github.io/docs
-
-aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
+url: https://northsim.github.io
